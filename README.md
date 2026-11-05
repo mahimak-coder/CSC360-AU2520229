@@ -8,6 +8,15 @@ This repository contains my coursework, class reflections, programming exercises
 
 The repository documents my learning throughout the course, including concepts discussed in class, problem-solving approaches, and their implementation using Java. It also serves as a record of my progress in understanding computer graphics through theoretical learning and practical experimentation.
 
+## Table of Contents
+
+- [About the Course](#about-the-course)
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Repository Structure](#repository-structure)
+- [Reflections](#reflections)
+- [Learning Outcomes](#learning-outcomes)
+- 
 ## 📁 Repository Structure
 
 ```text
