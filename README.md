@@ -82,6 +82,11 @@ The `src/main/java/` directory contains Java programs developed as part of the c
 | `Main.java` | Main Java programming file. |
 | `SQUARE.java` | Java program related to square geometry and graphics. |
 | `Triangle.java` | Java program related to triangle geometry and graphics. |
+### 🌐 Additional Practical
+
+| Project | Description |
+|---|---|
+| JavaFX Browser DOM | A JavaFX application demonstrating HTML DOM manipulation using WebView and JavaScript. (Group 12 Project) |
 
 ### 🛠️ Technologies Used
 
