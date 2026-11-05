@@ -1,5 +1,13 @@
 # 🎨 CSC360-AU2520229
+<p align="center">
+  <img src="images/Neon%20Computer%20Graphics_%20Shapes%20to%20Scenes.png"
+       alt="Computer Graphics Banner"
+       width="100%">
+</p>
 
+# CSC360 – Computer Graphics
+
+### Coursework | Practical Implementations | Learning Reflections
 # 💻 Computer Graphics and Digital Image Processing
 
 Welcome to my **CSC360 course repository!**
