@@ -22,33 +22,27 @@ The repository documents my learning throughout the course, including concepts d
 ```text
 CSC360-AU2520229/
 │
-├── README.md
-├── pom.xml
-│
 ├── Reflections/
-│   ├── CLASS 2 QUESTIONS.md
-│   ├── Class-02 notes.md
-│   ├── reflection_01_and_03aug.md
-│   ├── reflection_06aug.md
-│   ├── reflection_13aug.md
-│   ├── reflection_18aug.md
-│   ├── reflection_20aug.md
-│   ├── reflection_25aug.md
-│   ├── reflection_27aug.md
-│   ├── reflection_08sep.md
-│   ├── reflection_10sept.md
-│   ├── reflection_29sept.md
-│   ├── reflection_01oct.md
-│   ├── reflection_22oct.md
-│   ├── reflection_03nov.md
-│   └── .gitkeep
 │
-└── src/
-    └── main/
-        └── java/
-            ├── Main.java
-            ├── SQUARE.java
-            └── Triangle.java
+├── images/
+│   ├── computer-graphics-overview.png
+│   ├── dda-line.png
+│   ├── dda-output.png
+│   ├── bresenham-circle.png
+│   └── circle-output.png
+│
+├── src/
+│   └── main/
+│       └── java/
+│           ├── Main.java
+│           ├── SQUARE.java
+│           ├── Triangle.java
+│           ├── DDALineDrawing.java
+│           └── BresenhamCircleDrawing.java
+│
+├── README.md
+│
+└── pom.xml
 ```
 
 ## 📝 Reflections and Class Documentation
